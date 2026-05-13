@@ -1,0 +1,6 @@
+{
+  "name": "M.T.B medtime",
+  "description": "A daily medicine dose tracker with a spreadsheet-style visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
